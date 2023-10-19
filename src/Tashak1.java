@@ -17,7 +17,7 @@ public class Tashak1 {
 
             int choice = scanner.nextInt();
             scanner.nextLine();
-
+//
             switch (choice) {
                 case 1 -> addWord();
                 case 2 -> printWords();
