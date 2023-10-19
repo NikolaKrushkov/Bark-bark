@@ -30,7 +30,7 @@ public class Tashak1 {
             }
         }
     }
-
+ //
     public void addWord() {
         System.out.println("Enter the word to add:");
         String word = scanner.nextLine();
